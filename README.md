@@ -3,7 +3,7 @@
 ## Summary :sun_with_face:
 I am an engineer with M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. My areas of specialization are Statistics, Data Science and Artificial Intelligence. I executed several projects with Volvo Group and AstraZeneca.
 
-You can find on :information_source: <a href="[https://www.linkedin.com/in/devosmitachatterjee/"/> LinkedIn </a>
+You can find on :information_source: [LinkedIn](https://www.linkedin.com/in/devosmitachatterjee/)
 
 ## Tools & Technologies :wrench:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
