@@ -3,9 +3,11 @@
 ## Summary :sun_with_face:
 My name is Devosmita Chatterjee. I am an engineer with M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology. My areas of specialization are Statistics, Data Science and Artificial Intelligence. I executed several projects with Volvo Group and AstraZeneca.
 
-I recently developed an open-source data cleaning standalone application as master thesis project sponsored by Volvo powertrain department.
+You can find on [![LinkedIn][https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)]][https://www.linkedin.com/in/devosmita-chatterjee/].
 
 ## Technologies & Tools :wrench:
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -26,13 +28,9 @@ I recently developed an open-source data cleaning standalone application as mast
 </a>
 
 <a href="https://github.com/devosmitachatterjee2018/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=DataCleaningTool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>     
 
 <a href="https://github.com/devosmitachatterjee2018/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=Project_Course_in_Mathematical_and_Statistical_Modelling&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
-<a href="https://github.com/devosmitachatterjee2018/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=Spatial_Statistics_and_Image_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
