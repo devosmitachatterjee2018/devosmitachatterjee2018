@@ -1,4 +1,4 @@
-# Hello, I am Devosmita! <img src="https://github.com/devosmitachatterjee2018/devosmitachatterjee2018/WAVING_HAND.gif" width="50px">
+# Hello, I am Devosmita! :wave:
 
 ## Summary :sun_with_face:
 I am an engineer with M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. My areas of specialization are Statistics, Data Science and Artificial Intelligence. I executed several projects with Volvo Group and AstraZeneca.
@@ -24,7 +24,7 @@ You can find on :information_source: <a href="[https://www.linkedin.com/in/devos
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devosmitachatterjee2018&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/devosmitachatterjee2018/devosmitachatterjee2018">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devosmitachatterjee2018&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devosmitachatterjee2018&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Devosmita's GitHub Statistics" />
 </a>
 
 <a href="https://github.com/devosmitachatterjee2018/DataCleaningTool">
