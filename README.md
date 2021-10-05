@@ -5,7 +5,7 @@ I am an engineer with M.Sc. in Engineering Mathematics and Computational Science
 
 You can find on :information_source: <a href="[https://www.linkedin.com/in/devosmita-chatterjee/">LinkedIn</a>
 
-## Technologies & Tools :wrench:
+## Tools & Technologies :wrench:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
