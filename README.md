@@ -1,7 +1,7 @@
 # Hello, I am Devosmita! :wave:
 
 ## Summary :sun_with_face:
-I am an engineer with M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. My areas of specialization are Statistics, Data Science and Artificial Intelligence. I executed several projects with Volvo Group and AstraZeneca.
+I am a passionate engineer with M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. My areas of specialization are Statistics, Data Science and Artificial Intelligence. I executed several projects with Volvo Group and AstraZeneca.
 
 You can find on :information_source: [LinkedIn](https://www.linkedin.com/in/devosmitachatterjee/)
 
