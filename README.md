@@ -1,12 +1,14 @@
 # Hello, I am Devosmita! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Summary :sun_with_face:
-
 :woman_technologist: A passionate engineer.
 
 :mortar_board: M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. My areas of specialization are Statistics, Data Science and Artificial Intelligence. 
+
 :gem: Executed several projects with Volvo Group and AstraZeneca.
+
 :eyeglasses: Find me on :information_source: [LinkedIn](https://www.linkedin.com/in/devosmitachatterjee/)
+
 :email: Reach me via :information_source: [chatterjeedevosmita267@gmail.com](mailto:chatterjeedevosmita267@gmail.com)
 
 ## Tools & Technologies :wrench:
