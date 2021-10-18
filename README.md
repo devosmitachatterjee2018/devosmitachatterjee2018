@@ -5,7 +5,7 @@ I am a passionate engineer with M.Sc. in Engineering Mathematics and Computation
 
 You can find me on :information_source: [LinkedIn](https://www.linkedin.com/in/devosmitachatterjee/)
 
-You can reach me via :information_source: [##EA4335](mailto:chatterjeedevosmita267@gmail.com)
+You can reach me via :information_source: [chatterjeedevosmita267@gmail.com](mailto:chatterjeedevosmita267@gmail.com)
 
 [<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
 ## Tools & Technologies :wrench:
