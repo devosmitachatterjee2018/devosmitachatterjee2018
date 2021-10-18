@@ -5,6 +5,8 @@ I am a passionate engineer with M.Sc. in Engineering Mathematics and Computation
 
 You can find on :information_source: [LinkedIn](https://www.linkedin.com/in/devosmitachatterjee/)
 
+You can find on :information_source: [](mailto:chatterjeedevosmita267@gmail.com)
+
 ## Tools & Technologies :wrench:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
