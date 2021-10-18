@@ -2,7 +2,7 @@
 
 ## Summary :sun_with_face:
 
-:woman_technologist: A passionate engineer.
+:woman_technologist: A passionate engineer.\\
 :mortar_board: M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. My areas of specialization are Statistics, Data Science and Artificial Intelligence. 
 :gem: Executed several projects with Volvo Group and AstraZeneca.
 :eyeglasses: Find me on :information_source: [LinkedIn](https://www.linkedin.com/in/devosmitachatterjee/)
