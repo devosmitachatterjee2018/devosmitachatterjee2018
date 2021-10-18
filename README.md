@@ -1,11 +1,12 @@
 # Hello, I am Devosmita! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Summary :sun_with_face:
-I am a passionate engineer with M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. My areas of specialization are Statistics, Data Science and Artificial Intelligence. I executed several projects with Volvo Group and AstraZeneca.
 
-You can find me on :information_source: [LinkedIn](https://www.linkedin.com/in/devosmitachatterjee/)
-
-You can reach me via :information_source: [chatterjeedevosmita267@gmail.com](mailto:chatterjeedevosmita267@gmail.com)
+:woman_technologist: A passionate engineer.
+:mortar_board: M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. My areas of specialization are Statistics, Data Science and Artificial Intelligence. 
+:gem: Executed several projects with Volvo Group and AstraZeneca.
+:eyeglasses: Find me on :information_source: [LinkedIn](https://www.linkedin.com/in/devosmitachatterjee/)
+:email: Reach me via :information_source: [chatterjeedevosmita267@gmail.com](mailto:chatterjeedevosmita267@gmail.com)
 
 ## Tools & Technologies :wrench:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
