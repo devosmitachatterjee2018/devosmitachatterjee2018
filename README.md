@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
 
-## Most Used Programming Languages :bar_chart:
+## Frequently Used Languages :bar_chart:
 <a href="https://github.com/devosmitachatterjee2018/devosmitachatterjee2018">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devosmitachatterjee2018&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -39,10 +39,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=DataCleaningTool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>     
 
-<a href="https://github.com/devosmitachatterjee2018/Project_Course_in_Mathematical_and_Statistical_Modelling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=Project_Course_in_Mathematical_and_Statistical_Modelling&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
 <a href="https://github.com/devosmitachatterjee2018/Spatial_Statistics_and_Image_Analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=Spatial_Statistics_and_Image_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+<a href="https://github.com/devosmitachatterjee2018/Project_Course_in_Mathematical_and_Statistical_Modelling">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=Project_Course_in_Mathematical_and_Statistical_Modelling&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
