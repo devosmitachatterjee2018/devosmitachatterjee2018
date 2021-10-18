@@ -9,7 +9,7 @@
 
 :eyeglasses: Find me on :information_source: [LinkedIn](https://www.linkedin.com/in/devosmitachatterjee/)
 
-:email: Reach me via :information_source: [chatterjeedevosmita267@gmail.com](mailto:chatterjeedevosmita267@gmail.com)
+:email: Contact me via :information_source: [chatterjeedevosmita267@gmail.com](mailto:chatterjeedevosmita267@gmail.com)
 
 ## Tools & Technologies :wrench:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -39,10 +39,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=DataCleaningTool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>     
 
+<a href="https://github.com/devosmitachatterjee2018/Project_Course_in_Mathematical_and_Statistical_Modelling">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=Project_Course_in_Mathematical_and_Statistical_Modelling&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+
 <a href="https://github.com/devosmitachatterjee2018/Spatial_Statistics_and_Image_Analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=Spatial_Statistics_and_Image_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-<a href="https://github.com/devosmitachatterjee2018/Project_Course_in_Mathematical_and_Statistical_Modelling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=Project_Course_in_Mathematical_and_Statistical_Modelling&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
+
