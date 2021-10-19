@@ -12,17 +12,17 @@
 :email: Contact me via :information_source: [chatterjeedevosmita267@gmail.com](mailto:chatterjeedevosmita267@gmail.com)
 
 ## Tools & Technologies :wrench:
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1589F0)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2aaa9b)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2aaa9b)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=matlab&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=mathematica&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2aaa9b)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2aaa9b)
+![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=matlab&logoColor=white&color=2aaa9b)
+![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=2aaa9b)
+![](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=mathematica&logoColor=white&color=2aaa9b)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2aaa9b)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2aaa9b)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2aaa9b)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2aaa9b)
 
 ## Frequently Used Languages :bar_chart:
 <a href="https://github.com/devosmitachatterjee2018/devosmitachatterjee2018">
