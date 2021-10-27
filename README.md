@@ -48,7 +48,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=Spatial_Statistics_and_Image_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=f03c15&bg_color=1d1f21" />
 </a>    
 
-<a href="https://github.com/devosmitachatterjee2018/Statistical_Learning_for_Big_Data">
+<a href="https://github.com/devosmitachatterjee2018/Statistical_Learning_for_Big_Data_Report11062021">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=Statistical_Learning_for_Big_Data&title_color=ffffff&text_color=c9cacc&icon_color=f03c15&bg_color=1d1f21" />
 </a>    
 
