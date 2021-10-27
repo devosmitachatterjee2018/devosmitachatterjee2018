@@ -1,5 +1,5 @@
 # Hello, I am Devosmita! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![red](https://komarev.com/ghpvc/?username=devosmitachatterjee2018)
+![](https://komarev.com/ghpvc/?username=devosmitachatterjee2018&color=red)
 
 ## Summary :sun_with_face:
 :woman_technologist: A passionate engineer and data enthusiast.
