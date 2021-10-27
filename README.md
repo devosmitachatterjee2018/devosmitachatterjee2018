@@ -1,5 +1,5 @@
 # Hello, I am Devosmita! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![Visitor Count](https://profile-counter.glitch.me/{devosmitachatterjee2018}/count.svg)
+![counter](https://[devosmitachatterjee2018].m.pipedream.net)
 
 ## Summary :sun_with_face:
 :woman_technologist: A passionate engineer and data enthusiast.
