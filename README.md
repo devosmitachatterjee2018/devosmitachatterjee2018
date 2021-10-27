@@ -1,8 +1,8 @@
 # Hello, I am Devosmita! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://komarev.com/ghpvc/?username=devosmitachatterjee2018&color=red&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=devosmitachatterjee2018&color=green&label=Profile+Views)
 
 ## Summary :sun_with_face:
-:woman_technologist: A passionate engineer and data enthusiast.
+:woman_technologist: A passionate engineer and data science enthusiast.
 
 :mortar_board: M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. My areas of specialization are Statistics, Data Science and Artificial Intelligence. 
 
@@ -13,7 +13,7 @@
 :email: Contact me via :information_source: [chatterjeedevosmita267@gmail.com](mailto:chatterjeedevosmita267@gmail.com)
 
 ## Tools & Technologies :wrench:
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2aaa9b)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2aaa9b)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2aaa9b)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2aaa9b)
