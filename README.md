@@ -4,7 +4,9 @@
 ## Summary :sun_with_face:
 :woman_technologist: A passionate engineer and data science enthusiast.
 
-:mortar_board: M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. My areas of specialization are Statistics, Data Science and Artificial Intelligence. 
+:mortar_board: M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. 
+
+:bow_and_arrow: Areas of specialization are Statistics, Data Science and Artificial Intelligence. 
 
 :gem: Executed several projects with Volvo Group and AstraZeneca.
 
