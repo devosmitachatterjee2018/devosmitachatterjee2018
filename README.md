@@ -4,11 +4,13 @@
 ## Summary :sun_with_face:
 :woman_technologist: A passionate engineer and data science enthusiast.
 
+:briefcase: Currently working as Data Analyst in Volvo Group.
+
 :mortar_board: M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. 
 
 :bow_and_arrow: Areas of specialization are Statistics, Data Science and Artificial Intelligence. 
 
-:gem: Executed several projects with Volvo Group and AstraZeneca.
+:gem: Executed several projects with Volvo Group, Volvo Cars and AstraZeneca.
 
 :eyeglasses: Find me on :information_source: [LinkedIn](https://www.linkedin.com/in/devosmitachatterjee/)
 
