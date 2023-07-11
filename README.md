@@ -12,7 +12,7 @@
 
 :gem: Executed several projects with Volvo Group, Volvo Cars and AstraZeneca.
 
-:eyeglasses: Find me on :information_source: [LinkedIn](https://www.linkedin.com/in/devosmitachatterjee/)
+:eyeglasses: Connect with me via :information_source: [LinkedIn](https://www.linkedin.com/in/devosmitachatterjee/)
 
 :email: Contact me via :information_source: [chatterjeedevosmita267@gmail.com](mailto:chatterjeedevosmita267@gmail.com)
 
