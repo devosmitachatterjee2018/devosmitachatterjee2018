@@ -29,8 +29,7 @@
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=blue)
 
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)]([https://github.com/devosmitachatterjee2018/devosmitachatterjee2018])
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 ## Frequently Used Languages :bar_chart:
 <a href="https://github.com/devosmitachatterjee2018/devosmitachatterjee2018">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devosmitachatterjee2018&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
