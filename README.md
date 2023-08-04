@@ -39,7 +39,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devosmitachatterjee2018&radfasf&arasfda&show_icons=true&line_height=27&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=f03c15&bg_color=1d1f21" alt="Devosmita's GitHub Statistics" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devosmitachatterjee2018&include_all_commits=true&show_icons=true&theme=radical)
 ## Most Valuable Repositories :heart_eyes:
 <a href="https://github.com/devosmitachatterjee2018/DataCleaningTool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devosmitachatterjee2018&repo=DataCleaningTool&title_color=ffffff&text_color=c9cacc&icon_color=f03c15&bg_color=1d1f21" />
