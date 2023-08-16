@@ -6,7 +6,7 @@
 
 :briefcase: Currently working as Data Scientist in Volvo Group.
 
-:mortar_board: M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. 
+:mortar_board: Ph.D. in Applied Mathematics from Indian Institute of Engineering Science & Technology and M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. 
 
 :bow_and_arrow: Areas of specialization are Statistics, Data Science and Artificial Intelligence. 
 
