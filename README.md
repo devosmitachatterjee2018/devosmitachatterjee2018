@@ -4,7 +4,7 @@
 ## Summary :sun_with_face:
 :woman_technologist: A passionate engineer and data science enthusiast.
 
-:briefcase: Currently working as Advanced Data Analyst in Volvo Group.
+:briefcase: Currently working as Data Scientist in Volvo Group.
 
 :mortar_board: M.Sc. in Engineering Mathematics and Computational Science from Chalmers University of Technology, Sweden. 
 
